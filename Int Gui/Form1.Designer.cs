@@ -52,7 +52,6 @@
             this.InputBox1.Name = "InputBox1";
             this.InputBox1.Size = new System.Drawing.Size(195, 20);
             this.InputBox1.TabIndex = 1;
-            this.InputBox1.TextChanged += new System.EventHandler(this.InputBox_TextChanged);
             // 
             // CheckForInt
             // 
@@ -80,7 +79,6 @@
             this.InputBox2.Name = "InputBox2";
             this.InputBox2.Size = new System.Drawing.Size(195, 20);
             this.InputBox2.TabIndex = 4;
-            this.InputBox2.TextChanged += new System.EventHandler(this.InputBox2_TextChanged);
             // 
             // MathGUI
             // 
